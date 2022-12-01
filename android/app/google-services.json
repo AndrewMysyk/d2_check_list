@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473840286165",
+    "project_id": "d2-check-list",
+    "storage_bucket": "d2-check-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473840286165:android:59cb7ff010e6f5ba5fa55c",
+        "android_client_info": {
+          "package_name": "com.example.d2_check_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473840286165-1759d89lpu6bdlv4cs3crggm3m881ed4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMC0OMkGFCs5N3Lu2n9TuP_u5oyVzChgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473840286165-1759d89lpu6bdlv4cs3crggm3m881ed4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
